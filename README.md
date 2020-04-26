@@ -15,3 +15,5 @@ You can use the test image in the repositoty
 
 
 - - - - - - -  - - still under development    - - - - - - - - - - - 
+link to pytesseract-ocr library 
+https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe
